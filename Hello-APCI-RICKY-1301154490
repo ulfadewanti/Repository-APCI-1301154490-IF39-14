@@ -2,5 +2,5 @@
     Uses Crt; 
     Begin
         ClrScr;
-        Writeln(‘Hello World’); //untuk mengeluarkan string ‘Hello World’ di layar 
+        Writeln(‘Hello World’); 
     End.
